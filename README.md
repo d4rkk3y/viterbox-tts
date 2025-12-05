@@ -6,7 +6,7 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-dolly--vn%2Fviterbox-orange)](https://huggingface.co/dolly-vn/viterbox)
 
 **Viterbox** là mô hình Text-to-Speech tiếng Việt chất lượng cao, được fine-tune từ [Chatterbox](https://github.com/resemble-ai/chatterbox) trên **3000+ giờ** dữ liệu tiếng Việt.
@@ -269,7 +269,13 @@ audio = tts.generate(
 
 ## 📄 License
 
-MIT License - Xem file [LICENSE](LICENSE) để biết thêm chi tiết.
+**CC BY-NC 4.0** (Creative Commons Attribution-NonCommercial 4.0)
+
+- ✅ Được sử dụng cho mục đích **phi thương mại**
+- ✅ Được chia sẻ, sửa đổi với ghi nguồn
+- ❌ **KHÔNG** được sử dụng cho mục đích thương mại
+
+Liên hệ thương mại: [contextbox.ai](https://contextbox.ai)
 
 ---
 

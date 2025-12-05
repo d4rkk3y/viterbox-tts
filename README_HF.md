@@ -1,5 +1,5 @@
 ---
-license: mit
+license: cc-by-nc-4.0
 language:
   - vi
   - en
@@ -26,7 +26,7 @@ inference: false
 
 ### Vietnamese Text-to-Speech với Zero-shot Voice Cloning
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 
@@ -202,7 +202,13 @@ audio = tts.generate(
 
 ## 📄 License
 
-MIT License
+**CC BY-NC 4.0** (Creative Commons Attribution-NonCommercial 4.0)
+
+- ✅ Sử dụng cho mục đích **phi thương mại**
+- ✅ Chia sẻ, sửa đổi với ghi nguồn
+- ❌ **KHÔNG** được sử dụng cho mục đích thương mại
+
+Liên hệ thương mại: [contextbox.ai](https://contextbox.ai)
 
 ---
 
